@@ -1,4 +1,4 @@
-# Clash Cash Book 📊
+# Class Cash Book 📊
 
 A Python-based cash book management system for recording transactions, calculating balances, and generating financial reports.
 
